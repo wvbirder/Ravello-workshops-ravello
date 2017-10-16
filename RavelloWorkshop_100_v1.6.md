@@ -1,12 +1,9 @@
-![](images/100/image1.png)100
+![](images/100/image1a.png)
 ===================================
-
-Oracle Ravello Introduction Workshop 
-====================================
 
 Contact: Matt Orsie (<matthew.orsie@oracle.com>)
 
-January 4, 2017
+October 4, 2017
 
 Introduction
 ------------
