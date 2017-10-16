@@ -4,8 +4,6 @@
 Oracle Ravello Introduction Workshop 
 ====================================
 
- {#section-1 .LessonSubtitle}
-
 Contact: Matt Orsie (<matthew.orsie@oracle.com>)
 
 January 4, 2017
