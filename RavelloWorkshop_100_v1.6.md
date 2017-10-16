@@ -202,7 +202,7 @@ During an import, you will be asked to download a lightweight Ravello Import Too
 
 Username: **oracle**
 
-password: **ora123!**
+Password: **ora123!**
 
 -   Connect to the database using: **sqlplus sys/Welcome1@INDB as sysdba**
 
